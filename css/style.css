@@ -22,6 +22,7 @@ body {
       font-size: 16px; } }
 
 a {
+  target: blank;
   color: #2c98f0;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
@@ -338,9 +339,14 @@ figure {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn:hover {
               background: transparent !important;
               border: 1px solid #000 !important; }
+              #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn.btn-learn2 {
+                color: #FFF;
+                border: 1px solid #FFF;
+                background: transparent !important; }
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
               width: 100%; } }
+
 
 body.offcanvas {
   overflow-x: hidden; }
