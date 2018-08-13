@@ -1,3 +1,6 @@
-# My Bootstrap Template
+# My Personal Resume Website
 
-[Live Preview](https://rclodeca.github.io/My-Bootstrap-template/)
+A website that describes me, with links to my resume, my projects, and additional information.
+
+Check it out at http://ryanclode.com or https://rclodeca.github.io
+
